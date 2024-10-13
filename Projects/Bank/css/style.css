@@ -1,0 +1,21 @@
+/* *{
+    border: 1px solid red;
+} */
+
+#herosection{
+    
+     background: linear-gradient(rgba(184, 178, 166, 0.7),rgba(184, 178, 166, 0.702),rgba(184, 178, 166, 0.614)),url("../Images/background/hero_2.jpg");
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 550px;
+    position: relative;
+    
+}
+.carousel{
+    position: absolute;
+    top: 50px;
+    height: 200px;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}

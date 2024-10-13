@@ -1,0 +1,77 @@
+/* * {
+    border: 1px solid red;
+} */
+
+
+.herosection {
+    
+    z-index: 1;
+     background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(../Images/Background/hero-bg.jpg) no-repeat center center/cover;
+      width: 100%;
+      height: 400px;
+      padding-top: 60px;
+      
+      
+  }
+
+.brand-img {
+
+    height: 28px;
+    
+    margin: 20px 0px;
+    object-fit: contain;
+    filter: grayscale(100%);
+    transition: 0.4s ease-in-out;
+}
+
+.brand-img:hover {
+    scale: 1.2;
+    filter: grayscale(0%);
+}
+.image{
+    height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.clip{
+    clip-path: polygon(0 13%, 100% 0%, 100% 88%, 0% 100%);
+}
+.para{
+    padding-top: 90px;
+    padding-left: 10px;
+}
+.style{
+    clip-path: polygon(0 5%, 100% 0%, 100% 96%, 0% 100%);
+}
+.clippy{
+    clip-path: polygon(0 3%, 100% 0%, 99% 97%, 0% 100%);
+}
+
+@media only screen and (min-width:320px) {
+
+    .herosection {
+    
+        z-index: 1;
+         background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(../Images/Background/hero-bg.jpg) no-repeat center center/cover;
+          width: 100%;
+          height: 400px;
+          padding-top: 100px;
+          
+          
+      }
+}
+@media only screen and (min-width:1200px) {
+
+    
+.herosection {
+    
+    z-index: 1;
+     background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(../Images/Background/hero-bg.jpg) no-repeat center center/cover;
+      width: 100%;
+      height: 500px;
+      padding-top: 200px;
+      
+      
+  }
+}
+

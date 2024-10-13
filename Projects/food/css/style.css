@@ -1,0 +1,34 @@
+/* *{
+    border: 1px solid red;
+} */
+
+
+#herosection{
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.481),rgba(0, 0, 0, 0.492)) ,url(../Images/Background/1.jpg);
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+}
+#herosection .title{
+    padding-top:30px;
+    width: 300px;
+}
+#herosection .title h1{
+    font-size:80px;
+    font-weight: bold;
+}
+#glass{
+    background-image: url(../Images/Background/19.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background: linear-gradient(to bottom(rgba(139, 107, 107, 0.762),rgba(255, 255, 255, 0.792),rgba(255, 255, 255, 0.305)));
+    height: 520px;
+}
+#singing{
+    background-image: url(../Images/Background/8.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    height : 550px;
+}

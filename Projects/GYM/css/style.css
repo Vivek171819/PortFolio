@@ -1,0 +1,52 @@
+/* #herosection{
+    height: 500px;
+} */
+
+#plan{
+    background-image: url(../Images/background/price-bg.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    color: white;
+}
+
+#why{
+    background-color: black;
+    color: white;
+}
+#gym{
+    background-image: url(../Images/background/video-bg.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 450px;
+    color: white;
+}
+#footer{
+    background-color: black;
+    color: white;
+    padding-top: 50px;  
+    padding-bottom: 50px;
+}
+
+
+  /*-------------------------ABOUT--------------------------------------------*/
+
+
+#herosectionn{
+    background-image: url(../Images/background//hero-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    height: 300px;
+    color: white;
+}
+
+#gym .gym1{
+    padding-top: 180px;
+    
+}
+
+#pagination{
+    background-color: black !important;
+    color: aliceblue;
+}
+

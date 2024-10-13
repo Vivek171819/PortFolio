@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* border: 1px solid red; */
+}
+header h1,
+i {
+  font-size: 30px;
+  font-style: italic;
+  padding-top: 20px;
+}
+
+header {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 20px 23px;
+  background: transparent;
+  color: white;
+}
+#herosection {
+  background-image: url(../images/background/hero_1.jpg);
+  background-position: 100% 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin-top: -95px;
+  text-align: center;
+}
+
+#herosection div {
+  /* display: flex;
+    flex-wrap: nowrap; */
+  color: white;
+  padding-top: 200px;
+}
+#herosection div h1 {
+  font-size: 40px;
+  font-style: italic;
+}
+#herosection div button {
+  padding: 10px 50px;
+
+  color: white;
+  background-color: #f33c5d;
+  border: 1px solid white;
+  margin: 5px 0px;
+}
+.can {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: center;  */
+  width: 90%;
+}
+
+.you {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.you div i {
+  color: #f33c5d;
+  font-size: 15px;
+  margin-top: -14px;
+}
+#hero1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#visit {
+  padding: 50px 0px;
+}
+#visit h6 {
+  padding-bottom: 20px;
+  padding-left: 25px;
+  font-size: large;
+  color: gray;
+}
+#gorgeous {
+  padding: 50px 0px;
+}
+
+#gorgeous div {
+  width: 100%;
+}
+#gorgeous h1 {
+  font-size: 40px;
+  text-align: center;
+}
+#gorgeous p {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 7px;
+}
+#gorgeous div {
+  width: 100%;
+}
+#image img {
+  height: 200px;
+  width: 100%;
+}
+#recent {
+  padding: 100px 0px;
+}
+#recent div {
+  width: 100%;
+}
+#recent h1 {
+  font-size: 40px;
+  text-align: center;
+}
+#recent p {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 7px;
+}
+#recent div {
+  width: 100%;
+}
+#card div {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  border: 1px solid black;
+  box-shadow: 1px 1px 10px black;
+  padding-bottom: 50px;
+  margin: 20px 0px;
+  justify-content: center;
+}
+#card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+#card div p {
+  padding-top: 20px;
+}
+#Testimonial{
+  padding: 80px 0px;
+}
+#Testimonial h1{
+  text-align: center;
+  font-size: 50px;
+  padding-bottom: 10px;
+}
+#Testimonial section div img{
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+}
+#people div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 90%;
+}
+#people{
+  display: flex;
+  flex-wrap: wrap;
+  /* width: 100%; */
+  
+  justify-content: space-around;
+}
+
+#contact div{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  /* justify-content: center; */
+  padding: 20px 0px;
+
+}
+#contact div i{
+  margin-left: 5px;
+  margin-bottom: 6px;
+}
+#contact{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #1A1A1A;
+  color: aliceblue;
+  padding: 70px 0px;
+
+}
+#footer{
+  text-align: center;
+  padding: 50px 0px;
+  background-color: #1A1A1A;
+  color: aliceblue;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  #herosection div h1 {
+    font-size: 60px;
+    font-style: italic;
+  }
+  .can {
+    width: 42%;
+  }
+  #gorgeous div {
+    width: 60%;
+    margin-left: 165px;
+  }
+  #recent div {
+    width: 60%;
+    margin-left: 165px;
+  }
+  #image img {
+    height: 500px;
+  }
+  #card div {
+    width: 45%;
+  }
+ #people div {
+    width:20%;
+  }
+  #contact div{
+    width: 20%;
+  }
+}
+
+
+@media only screen and (min-width: 1200px) {
+  #herosection {
+    height: 600px;
+  }
+  #herosection div {
+    padding-top: 300px;
+  }
+  #herosection div h1 {
+    font-size: 80px;
+    font-style: italic;
+  }
+  #herosection div p {
+    font-size: 20px;
+  }
+  .can {
+    width: 20%;
+  }
+  #visit {
+    padding: 100px 0px;
+  }
+  #gorgeous div {
+    width: 50%;
+    margin-left: 300px;
+  }
+  #gorgeous h1 {
+    font-size: 60px;
+  }
+  #recent div {
+    width: 50%;
+    margin-left: 300px;
+  }
+  #recent h1 {
+    font-size: 60px;
+  }
+  #image img {
+    height: 700px;
+  }
+  #card div {
+    width: 26%;
+  }
+  #people div {
+    width:23%;
+  }
+  #contact div{
+    width: 24%;
+  }
+}

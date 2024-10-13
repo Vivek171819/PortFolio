@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/VivekS/Projects/Famms/static/css/main.b6111ee1.css",
+    "main.js": "/VivekS/Projects/Famms/static/js/main.75684edf.js",
+    "static/media/arrival-bg.png": "/VivekS/Projects/Famms/static/media/arrival-bg.dfd05e88df3057f38a2b.png",
+    "static/media/p6.png": "/VivekS/Projects/Famms/static/media/p6.56764785976fbea4d942.png",
+    "static/media/p11.png": "/VivekS/Projects/Famms/static/media/p11.e65d033eb329f4baecf6.png",
+    "static/media/p9.png": "/VivekS/Projects/Famms/static/media/p9.8eaaca847bad93d49346.png",
+    "static/media/p10.png": "/VivekS/Projects/Famms/static/media/p10.94bd9b52b03d30e5f162.png",
+    "static/media/p12.png": "/VivekS/Projects/Famms/static/media/p12.d92c45eb30c02d1fc9ea.png",
+    "static/media/p1.png": "/VivekS/Projects/Famms/static/media/p1.829b2ae89afe2db553ef.png",
+    "static/media/p8.png": "/VivekS/Projects/Famms/static/media/p8.758e4a43543c5b71b9b4.png",
+    "static/media/p5.png": "/VivekS/Projects/Famms/static/media/p5.527244a2c23986949482.png",
+    "static/media/slider-bg.jpg": "/VivekS/Projects/Famms/static/media/slider-bg.7732952e4d7c2802ba79.jpg",
+    "static/media/p4.png": "/VivekS/Projects/Famms/static/media/p4.54748c9d04ac8d6f4439.png",
+    "static/media/p7.png": "/VivekS/Projects/Famms/static/media/p7.aa695684e9de984242da.png",
+    "static/media/p2.png": "/VivekS/Projects/Famms/static/media/p2.e55146e8addad837e134.png",
+    "static/media/p3.png": "/VivekS/Projects/Famms/static/media/p3.4213f873d3a84b15ddfd.png",
+    "static/media/logo.png": "/VivekS/Projects/Famms/static/media/logo.62fd1ebe7515af85e62c.png",
+    "index.html": "/VivekS/Projects/Famms/index.html",
+    "main.b6111ee1.css.map": "/VivekS/Projects/Famms/static/css/main.b6111ee1.css.map",
+    "main.75684edf.js.map": "/VivekS/Projects/Famms/static/js/main.75684edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6111ee1.css",
+    "static/js/main.75684edf.js"
+  ]
+}

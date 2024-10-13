@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VivekS/Projects/SpaceExplore/static/css/main.bd2f750c.css",
+    "main.js": "/VivekS/Projects/SpaceExplore/static/js/main.50f74d9f.js",
+    "static/js/787.d5a04ef8.chunk.js": "/VivekS/Projects/SpaceExplore/static/js/787.d5a04ef8.chunk.js",
+    "static/media/e9e47-178311.png": "/VivekS/Projects/SpaceExplore/static/media/e9e47-178311.a2c651793f9d0c81e320.png",
+    "static/media/apps.45090.0d85c658-db7c-4766-b6c9-edc00b748e3f.jpeg": "/VivekS/Projects/SpaceExplore/static/media/apps.45090.14298351588268050.0d85c658-db7c-4766-b6c9-edc00b748e3f.2bb391b4b554267b1c92.jpeg",
+    "index.html": "/VivekS/Projects/SpaceExplore/index.html",
+    "main.bd2f750c.css.map": "/VivekS/Projects/SpaceExplore/static/css/main.bd2f750c.css.map",
+    "main.50f74d9f.js.map": "/VivekS/Projects/SpaceExplore/static/js/main.50f74d9f.js.map",
+    "787.d5a04ef8.chunk.js.map": "/VivekS/Projects/SpaceExplore/static/js/787.d5a04ef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd2f750c.css",
+    "static/js/main.50f74d9f.js"
+  ]
+}
